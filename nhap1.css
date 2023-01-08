@@ -1,0 +1,140 @@
+
+.footer {
+    background-color: #e9e2d8;
+  }
+  
+  .footer .widget .widget-title {
+    margin-bottom: 25px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .footer .widget {
+      margin-bottom: 30px;
+    }
+  }
+  
+  .footer .copyright {
+    padding: 20px 0;
+    text-align: center;
+    color: #888;
+    margin-bottom: 0;
+  }
+  
+  .footer .copyright a {
+    color: #ff5353;
+  }
+  
+  .foo-top {
+    padding: 80px 15px;
+    border-bottom: 1px solid #d6d8d9;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .foo-top {
+      padding-bottom: 20px;
+    }
+  }
+  
+  .app-btn {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #d6d8d9;
+    padding-bottom: 30px;
+  }
+  
+  .app-btn a {
+    -ms-flex-preferred-size: 49%;
+        flex-basis: 49%;
+    padding: 12px 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    position: relative;
+    padding-left: 35px;
+  }
+  
+  .app-btn a i {
+    color: #ff5353;
+    font-size: 20px;
+    margin-right: 5px;
+    position: absolute;
+    left: 7px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+  }
+  
+  .app-btn a p {
+    margin-bottom: 0;
+    color: #000;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: .8;
+    text-transform: uppercase;
+  }
+  
+  .app-btn a p span {
+    display: block;
+    font-size: 10px;
+    font-weight: 400;
+    color: #4a4a4a;
+    line-height: .8;
+    margin-bottom: 5px;
+  }
+  
+  .app-btn a:hover, .app-btn a.app-store {
+    background-color: #ff5353;
+  }
+  
+  .app-btn a:hover p, .app-btn a:hover span, .app-btn a:hover i, .app-btn a.app-store p, .app-btn a.app-store span, .app-btn a.app-store i {
+    color: #fff;
+  }
+  
+
+
+  
+  <div class="chu11">
+  <h4 class="about">About us</h4>
+  <ul class="chucoitrang">
+      <li><a href="#">Who we are</a></li>
+      <li><a href="#">Work with us</a></li>
+      <li><a href="#">Become a supplier</a></li>
+      <li><a href="#">Investor relations</a></li>
+      <li><a href="#">Our devices</a></li>
+      <li><a href="#">Affiliate program</a></li>
+  </ul>
+
+</div>
+<div class="chu11">
+  <h4 class="about">About us</h4>
+  <ul class="chucoitrang">
+      <li><a href="#">Who we are</a></li>
+      <li><a href="#">Work with us</a></li>
+      <li><a href="#">Become a supplier</a></li>
+      <li><a href="#">Investor relations</a></li>
+      <li><a href="#">Our devices</a></li>
+      <li><a href="#">Affiliate program</a></li>
+  </ul>
+
+</div>
+<div class="chu11">
+  <h4 class="about">About us</h4>
+  <ul class="chucoitrang">
+      <li><a href="#">Who we are</a></li>
+      <li><a href="#">Work with us</a></li>
+      <li><a href="#">Become a supplier</a></li>
+      <li><a href="#">Investor relations</a></li>
+      <li><a href="#">Our devices</a></li>
+      <li><a href="#">Affiliate program</a></li>
+  </ul>
+
+</div>

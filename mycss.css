@@ -1,0 +1,284 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script:400,700&display=swap");
+*{padding:0; margin:0;-webkit-box-sizing: border-box;
+    box-sizing: border-box;}
+
+
+body{padding:0; margin:0;background-color: #fff;
+  font-family: 'Roboto', sans-serif;}
+.chung{width:100%}
+
+.clearfix:after {display:block; clear:both;}
+.menulever2 {width:100%;box-shadow:0px 1px 3px rgba(0,0,0,0.2); background:white;}
+ 
+.logo2{float: left;margin-left: 12%; margin-top: 5px;}
+.menu {width:100%; margin:0px auto;background:white; height: 80px;  }
+.menu li { margin:0px; list-style:none;  width: 90px;}
+
+.menu a {color:black;text-decoration:none;}
+.menu li:hover > a, .menu .current-item > a { text-decoration:none; color:#be5b70;} 
+.menu .arrow { font-size:11px;} 
+
+.menu > ul > li {float:left;display:inline-block; position:relative; font-size:15px;}
+.menu > ul > li > a { padding:10px 40px;display:inline-block; color:black; margin-top: 12px;}
+.menu > ul > li:hover > a, .menu > ul > .current-item > a { background:white;}
+
+.menu li:hover .sub-menu { z-index:1; opacity:1;}
+.sub-menu {width:200%; padding:5px 0px; position:absolute;top:100%; left:0px;z-index:-1; opacity:0;transition:opacity linear 0.15s;box-shadow:0px 2px 3px rgba(0,0,0,0.2); background:white;}
+.sub-menu li {display:block;font-size:16px;}
+.sub-menu li a { padding:10px 40px;display:block; width: 100px;}
+
+.icon10{float:right;
+    margin-right:10%;}
+
+
+
+
+.xoa{clear:both}
+.cangiua{text-align:center;}
+
+
+.icon{float:right;
+    margin-right:10%;}
+.hinhs1{width:100%;}
+.chu1{text-align:center;
+    margin:0px 0 0 50px;
+    
+}
+.chu1 h1{font-size:40px}
+
+.hinh2{text-align:center;margin-left: 10.6%;}
+.hinh2 .hinh12 a{color:#88888F}
+
+.hinh2 .hinh12 a:hover{color:chocolate}
+.chuduoianh1{margin:0 100px;text-decoration: none;font-size:17px;}
+.sao{margin:0 145px; text-decoration: none;}
+.hinh12{width: 360px;float: left;margin-left:40px;}
+.hinhh{margin:0 50px}
+.s35{margin:0 0 0 ; margin-left: 5px;margin-bottom: 50px;}
+.hinhnho4{margin-left: 15.5%;}
+.hinh41{width: 263px;float: left;margin: 0 0 0;margin-left: 10px;}
+
+.chuduoianh2{margin:0 58px;text-decoration: none;font-size:16px;}
+.sao2{margin:0 95px; text-decoration: none;}
+.s352{margin:0 0 0 ; margin-left: 120px;margin-bottom: 50px;}
+
+
+
+.thongtin{width: 100%;height: 300px;background:lightcoral}
+.chu11{width:100%; float:left}
+
+
+.hinhnho44{margin-left:13.8%;}
+.hinh411{width: 230px;float: left;margin: 0 0 0;margin-left: 35px;margin-top: 30px;}
+.boder{border: 2px groove #f5f5f5}
+.hinhnho4 .hinh41 a{color:#88888F}
+.hinhnho4 .hinh41 a:hover{color:chocolate}
+
+.hinh411 h5 {
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    margin-top: 10px;}
+  .hinh411 img{margin-top: 30px;}
+  .hinh411 h5 a{text-decoration: none;color:black}
+  .hinh411 h5 a:hover{color:chocolate}
+  .hinh411 p:hover{color:chocolate}
+.chuto{margin-top:150px; margin-bottom:15px}
+.chuto1{padding-top: 0;; margin-bottom:0px}
+  
+.hinhnho4{margin-left: 14%;}
+.hinh412{width:290px;float: left;margin: 0 0 0;margin-left:60px;}
+.hinhnho4 .hinh412 h3 a{text-decoration: none; color:rgb(19, 19, 18); }
+.hinhnho4 .hinh412 h3 a:hover{color:chocolate}
+.hinhnho4 .hinh412 p{margin-top: 20px;}
+
+.sao22{margin:0 95px; text-decoration: none;}
+.s3522{margin:0 0 0 ; margin-left: 120px;margin-bottom: 50px;}
+.hinh412 img{width:100%;}
+.hinh412 p a{text-decoration: none;color:#94908e}
+.hinh412 p a:hover{color:chocolate}
+.chamdo{width:2px}
+
+.thea{text-decoration: none;}
+.chup{width:50; float:left}
+.chutoo{margin-top:300px; margin-bottom:10px}
+.hinhnho44 p{color:#88888F}
+
+
+.hinh413{width: 260px;float: left;margin: 0 0 0;}
+.hinh413 img{width:90%}
+.hinh04{margin-left:17%;}
+
+.cuoitrang{width:100%;height:340px; background:#E9E2D8;margin-top:330px; }
+.chucuoi{width:16.5%; float:left;margin-top:60px;}
+.chucuoi h4{margin-bottom: 20px;}
+.chucuoi p a{text-decoration: none;display: block;color:#94908e ; line-height: 30px;}
+
+
+.chucuoi p a:hover{color:chocolate;}
+.chucuoi1{width:300px; float:left;margin-top: 60px;}
+.chucuoi1 h4{margin-bottom:20px;}
+.fb{width:30px; float:left; margin-left:20px}
+
+
+.cuoitrang1{width:100%;height:300px; background:#E9E2D8;margin-top:10px; }
+.cuoitrang4{width:100%;height:340px; background:#E9E2D8;margin-top:100px; font-family: 'Roboto'}
+
+//trang1
+.chut1{text-align:center;
+    margin:0px 0 0 50px;}
+.chut1 h1{font-size:30px; margin-left: 39.5%;}
+.hinhnhotrang2{margin-left:21%;}
+
+.hinht2{text-align:center;margin-left: 10.6%;}
+.hinh2 .hinh12 a{color:#88888F}
+.hinh2 .hinh12 a:hover{color:chocolate}
+.chut11{text-align:center; height:90px;
+    margin:0px 0 0 0px;}
+.chut11 h1{font-size:35px;}
+.hinh12 img:hover{}
+.chuduoianhtrang2{width: 120px;height:30px ;float: left;margin: 0 0 0;margin-left:20px;margin-top: 15px; margin-bottom: 30px;}
+.chuduoianhtrang2 p a{text-decoration:none;color:#676781;}
+.chuduoianhtrang2 p{margin-top: 5px;}
+.chuduoianhtrang2 p a:hover{color:#be5b70; border-bottom: 3px solid #e8171f;}
+.hinh1{width:100%; margin-top: 3%;}
+.hinhb11{width:63%; float:right; }
+.hinha1{width:40%;; float:left;}
+
+.hinha2{width:60%; float: left}
+.hinha22{width:26.5%; float: left;}
+.hinha22:hover{border-bottom: 3px solid #e8171f; }
+.hinha22 p{text-align:center; margin-top: 3%;}
+.hinha22 p a{text-decoration: none;font-size:13px;color: #88888F;}
+.hinha22 p a:hover{color:#be5b70}
+.hinha22 p b:hover{color:red}
+.hinha21{width:60%; float: left; margin-top:1%}
+.hc{margin-top:50px}
+.hinhc{width:76%;height:100px; margin-left: 7%; margin-top: 3%; margin-bottom: 2%;}
+
+.hinhb1{width:59%; float:left; margin-left:9% ; }
+.hinha1b{width:40%; float:right; }
+
+
+.hinh21{ margin-top: 3%; }
+.hinha2b{width:60%;float:right;}
+.hinha22b{width:26.5%; float: left; margin-right: 2%;}
+.hinha22b p{text-align:center; margin-top: 3%;}
+.hinha22b p a{text-decoration: none;font-size:13px;color: #88888F;}
+.hinha22b p a:hover{color:#be5b70}
+.hinha22b p b:hover{color:red}
+.hinha21b{width:60%; float: left; margin-top:4%}
+
+
+
+
+
+
+
+
+
+//trang22
+.cuoitrang4{width:100%;height:340px; background:#E9E2D8;margin-top:100px; font-family: 'Roboto'}
+
+.hinhdautrang2{width: 100%;}
+.hinh211{float: left; width:50%;}
+.hinh222{float:left;  width:50%;}
+
+
+
+.chuduoianhtrang22{width: 120px;height:30px ;float: left;margin: 0 0 0;margin-left: 5px;margin-top: 15px; margin-bottom: 30px;}
+.chuduoianhtrang22 p a{text-decoration:none;color:#676781;}
+.chuduoianhtrang22 p{margin-top: 5px;}
+.chuduoianhtrang22 p a:hover{color:#be5b70; border-bottom: 3px solid #e8171f;}
+.hinhduoitrang2{width: 100%;margin-top: 10px;}
+.imgnho{width:20%; float: left;}
+.ingnho p a{text-decoration: none;font-size:13px;color: #88888F;}
+.ingnho p a:hover{color:#be5b70}
+.s3522{margin:0 0 0 ; margin-left:110px;margin-bottom: 50px;}
+
+.s3523{margin:0 0 0 ; margin-left:115px;margin-bottom: 50px;}
+
+.hinh419{width: 263px;float: left;margin: 0 0 0;margin-left: 10px;}
+.hinh419 a{color:#88888F}
+.hinh419 a:hover{color:#be5b70}
+.hinh419:hover{border-bottom: 3px solid #e8171f;}
+.hinh419 img:hover{transition: ease-in-out 0.5s;}
+
+
+
+
+//trang3
+
+
+
+
+//trang4
+
+
+.container{
+	width:950px;
+	margin:0 auto;
+	border-radius:5px;
+	border:1px solid #e3e1dc;
+	background:#ffffff;
+	text-align:center;
+	padding:20px;
+}
+h1{
+	font-weight:normal;
+	font-size:24px;
+	padding:50px;
+}
+.ipt{padding:10px; width:443px; border:2px solid black; border-radius:5px}
+input:focus{background:lightblue; outline:none}
+form div{
+	display:block;
+	margin-bottom:20px;
+}
+.iptsubmit{width:465px; background:#e8171f; color:#fff; margin-top:30px;}
+.divider{width:400px;
+ margin:0 auto; 
+ text-align:center; 
+ border-top: 1px solid black}
+.divider span{position:relative; top:-16px; background: white; padding: 0 30px}
+.iptbutton{background:black; width:465px;
+ margin:0 auto; 
+ text-align:center; 
+ border-top: 1px solid black}
+ .ip{padding:10px; width:100px; border:2px solid black; border-radius:5px; margin-right:5px}
+ .ipts{padding:10px; width:330px; border:2px solid black; border-radius:5px; }
+ .iptx{padding:10px; width:465px; border:2px solid black; border-radius:5px}
+ 
+ .chuthich1{
+	font-size:14px;
+	color:gray;
+	margin-left:20px
+}
+.chuthich2{font-size:14px;color:gray;margin-left:10px;width:100px;margin-left:225px
+}
+.khoangcach1{margin-left:65px;margin-bottom:-10px
+}
+.floatl{float:left}
+
+
+
+
+
+
+
+
+
+//trang5
+.hinhdautrang5{width:100%;text-align: center;}
+.hinhdautrang51{width:635px; float: left;}
+
+.anhtrang52{margin-left: 8%;}
+.anhtrang522{width:55.5%;float: left;}
+.anhtrang5222{width:30%;float: left;}
+.anhtrang5222 img{margin-left: 75px;}
+.anhtrang533{width:30.3%;float: left;}
+.anhtrang53 a img:hover{transition: ease-in-out 0.5s;}
+
+
